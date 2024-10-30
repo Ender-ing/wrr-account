@@ -1,0 +1,9 @@
+{
+    "name": {
+        "long": "Ender Account",
+        "short": "Account"
+    },
+    "web": {
+        "host": "account.ender.ing"
+    }
+}
